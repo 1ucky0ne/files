@@ -1,0 +1,231 @@
+﻿Country;Visits;Emails;Paywalls
+"	United States";185 478;46 841;21 807
+"	United Kingdom";116 156;27 626;15 425
+"	Canada";78 908;19 072;10 236
+"	Australia";65 970;15 469;7 919
+"	South Africa";31 354;7 713;3 363
+"	Italy";25 827;4 504;2 350
+"	New Zealand";16 701;4 454;2 113
+"	Poland";16 543;3 188;1 726
+"	Ireland";15 917;2 050;932
+"	Romania";15 008;4 309;2 088
+"	France";14 395;3 156;1 890
+"	Germany";13 123;2 272;1 217
+"	Hungary";9 456;1 852;913
+"	Norway";9 611;1 537;879
+"	Belgium";9 111;2 127;1 159
+"	Spain";8 477;1 966;1 010
+"	Greece";8 409;1 911;957
+"	Portugal";8 214;2 008;1 069
+"	Sweden";8 064;1 327;748
+"	Czech Republic";7 587;1 530;817
+"	Denmark";7 361;1 289;825
+"	Finland";6 285;1 095;541
+"	Indonesia";6 092;1 790;1 100
+"	Croatia";4 994;1 097;552
+"	Austria";4 856;883;446
+"	Switzerland";4 686;889;482
+"	Chile";4 130;895;480
+"	Bulgaria";4 067;953;495
+"	Israel";3 786;1 095;664
+"	Slovenia";3 428;779;393
+"	Iceland";3 306;670;384
+"	Slovakia";3 129;635;353
+"	Netherlands";2 730;560;281
+"	Vietnam";2 692;800;532
+"	Georgia";2 591;606;376
+"	Ghana";2 479;668;393
+"	United Arab Emirates";2 526;813;423
+"	Bahamas";2 399;675;354
+"	Zambia";2 424;621;327
+"	Malta";2 406;592;292
+"	Zimbabwe";2 329;659;355
+"	Botswana";1 865;451;246
+"	Dominican Republic";1 561;418;217
+"	Bosnia and Herzegovina";1 537;377;195
+"	Fiji";1 438;378;211
+"	Taiwan";1 524;349;236
+"	Macedonia";1 467;363;185
+"	Tanzania";1 365;363;227
+"	Barbados";1 359;348;154
+"	Maldives";1 400;289;173
+"	Luxembourg";1 334;267;153
+"	Ecuador";1 250;288;158
+"	Guyana";1 105;298;171
+"	Hong Kong";1 044;274;165
+"	Albania";1 039;285;161
+"	Saudi Arabia";1 059;283;166
+"	Guam";1 003;265;129
+"	Cura√ßao";976;219;112
+"	Tunisia";966;303;199
+"	Cyprus";970;217;113
+"	Qatar";907;257;127
+"	Brunei";883;224;105
+"	Panama";835;230;119
+"	Malawi";837;232;147
+"	Japan";875;258;137
+"	Papua New Guinea";821;197;136
+"	Belize";815;247;136
+"	Jordan";830;209;104
+"	Bermuda";780;220;119
+"	India";770;193;123
+"	Uruguay";799;166;72
+"	South Korea";733;187;115
+"	Armenia";692;136;87
+"	Saint Lucia";637;166;92
+"	Bahrain";648;139;73
+"	Singapore";633;116;71
+"	Cayman Islands";564;155;81
+"	Jersey";546;99;43
+"	Ivory Coast";544;103;61
+"	Cameroon";530;159;92
+"	Ethiopia";540;145;85
+"	Antigua and Barbuda";534;131;71
+"	French Polynesia";541;107;56
+"	Grenada";496;132;75
+"	Paraguay";534;125;59
+"	Turkey";550;103;44
+"	Isle of Man";507;111;56
+"	Swaziland";472;127;62
+"	Lesotho";452;113;69
+"	Oman";464;123;60
+"	Ukraine";369;102;90
+"	Bolivia";408;91;38
+"	Guernsey";389;86;37
+"	Azerbaijan";387;80;50
+"	Faroe Islands";380;50;27
+"	Seychelles";363;113;58
+"	Senegal";336;77;38
+"	Angola";332;79;40
+"	Dominica";317;88;50
+"	Greenland";340;65;39
+"	R√©union";326;73;29
+"	Congo (DRC)";315;70;42
+"	U.S. Virgin Islands";327;88;41
+"	Saint Kitts and Nevis";285;76;46
+"	Haiti";273;76;43
+"	American Samoa";272;90;48
+"	Philippines";281;62;29
+"	St. Vincent & Grenadines";259;67;34
+"	Myanmar (Burma)";261;74;58
+"	Mexico";260;48;24
+"	British Virgin Islands";224;50;27
+"	Montenegro";232;56;31
+"	Thailand";242;63;39
+"	Guadeloupe";225;42;22
+"	Gibraltar";236;55;23
+"	Sint Maarten";221;64;34
+"	Bhutan";220;60;38
+"	Serbia";211;54;26
+"	Samoa";205;49;30
+"	Martinique";206;47;22
+"	Turks and Caicos Islands";201;56;31
+"	Caribbean Netherlands";203;47;26
+"	Liberia";198;61;40
+"	Egypt";190;48;22
+"	Cook Islands";161;57;25
+"	New Caledonia";177;33;14
+"	Tonga";170;42;21
+"	Sierra Leone";161;31;15
+"	French Guiana";163;30;20
+"	Kyrgyzstan";158;32;19
+"	Gabon";161;26;15
+"	Palau";159;48;22
+"	Northern Mariana Islands";160;46;26
+"	Laos";155;24;9
+"	Macau";135;29;15
+"	Kosovo";137;39;22
+"	Brazil";132;35;11
+"	Malaysia";138;22;10
+"	Cape Verde";126;24;12
+"	Togo";107;32;18
+"	Somalia";116;19;9
+"	Solomon Islands";106;30;11
+"	Morocco";114;32;11
+"	Anguilla";103;28;19
+"	Lithuania";104;17;11
+"	Benin";93;18;10
+"	Vanuatu";86;26;16
+"	Micronesia";86;27;20
+"	Colombia";75;18;9
+"	Kenya";73;20;14
+"	Saint Martin";69;19;9
+"	Mali";66;12;6
+"	(none)";69;10;7
+"	Marshall Islands";60;20;8
+"	Pakistan";62;16;8
+"	Congo";61;13;5
+"	Nauru";59;15;7
+"	Burkina Faso";62;12;7
+"	√Öland Islands";56;8;5
+"	Moldova";60;13;5
+"	Nigeria";56;17;9
+"	Gambia";51;15;7
+"	Latvia";57;11;7
+"	South Sudan";47;12;10
+"	Jamaica";57;15;9
+"	Guinea";52;10;7
+"	Estonia";53;14;5
+"	Andorra";48;11;5
+"	Lebanon";50;17;7
+"	Argentina";51;10;3
+"	Mauritius";47;9;4
+"	Burundi";41;11;4
+"	Puerto Rico";43;16;9
+"	Peru";43;11;3
+"	Falkland Islands";39;11;6
+"	Saint Pierre and Miquelon";30;7;4
+"	Montserrat";32;7;3
+"	Trinidad and Tobago";33;8;3
+"	Namibia";31;9;5
+"	Sri Lanka";30;6;2
+"	Monaco";28;5;2
+"	San Marino";29;8;1
+"	Bangladesh";29;7;3
+"	Kuwait";28;9;6
+"	Aruba";25;4;1
+"	East Timor";24;8;6
+"	Costa Rica";24;1;1
+"	Liechtenstein";22;6;1
+"	Cambodia";22;2;1
+"	Belarus";20;5;2
+"	Kiribati";19;6;3
+"	Russia";20;2;2
+"	Sudan";16;4;2
+"	Guatemala";19;4;3
+"	Palestine";17;7;0
+"	Mayotte";17;4;4
+"	Tuvalu";17;5;3
+"	China";16;6;1
+"	Afghanistan";16;3;1
+"	Honduras";14;2;2
+"	Chad";15;3;2
+"	Central African Republic";13;5;3
+"	Mongolia";15;3;3
+"	Rwanda";14;5;3
+"	Djibouti";12;1;0
+"	Algeria";13;0;0
+"	Nepal";13;4;1
+"	Venezuela";11;5;2
+"	Uganda";11;2;1
+"	Equatorial Guinea";11;2;1
+"	Guinea-Bissau";11;2;1
+"	Mozambique";9;3;1
+"	Kazakhstan";7;0;0
+"	Uzbekistan";8;0;0
+"	Comoros";8;3;0
+"	Suriname";6;1;0
+"	Nicaragua";6;0;0
+"	Iraq";6;1;1
+"	S√£o Tom√© and Pr√≠ncipe";4;0;0
+"	Saint Barth√©lemy";4;2;2
+"	Cuba";4;1;0
+"	Norfolk Island";4;1;0
+"	Mauritania";4;1;1
+"	Madagascar";3;1;0
+"	El Salvador";2;0;0
+"	Tokelau";2;0;0
+"	Syria";2;0;0
+"	Niger";2;0;0
+"	Wallis and Futuna";1;1;1
+"	Yemen";1;0;0
